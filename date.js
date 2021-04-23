@@ -19,11 +19,8 @@ function testDateTime(a, b) {
     }
     return days[day]
 }
-console.log(testDateTime(2021-04-16, 2021-04-15))
+
 //check of saved changes 
-<<<<<<< HEAD
 // yes, chenges where saved
-=======
 // and what now?
->>>>>>> 9679a34bf11772eb6958b1af02cf9af6af41dfdb
 // Resolving a merge conflict
