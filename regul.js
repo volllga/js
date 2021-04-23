@@ -24,3 +24,6 @@ ar,ar,ar,ar,ar,ar,ar
 // function testRegExp(s, sub_s) {
 //     return s.match(new RegExp(sub_s, "g")).join(",");
 // }
+// function testRegExp(s, sub_s) {
+//     return s.match(new RegExp(sub_s, 'g')).join();
+// }
