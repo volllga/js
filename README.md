@@ -1,2 +1,3 @@
 # js
-JavaScript
+JavaScript for me.
+It is the line to check GraphQL
