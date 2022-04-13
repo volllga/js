@@ -43,4 +43,4 @@ function greeting(line) {
     return ("My name is " + name + " and I'm a " + job + ".");
 }
 
-console.log(greeting(inputStr2));
+console.log(greeting(inputStr2)); //
