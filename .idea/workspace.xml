@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stringMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringSearching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regExp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
     </list>
@@ -39,17 +39,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IntroductionToCypress" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.1.js">
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map.js" working-dir="$PROJECT_DIR$">
+    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="regExp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/regExp.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="stringMethods.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/stringMethods.js" working-dir="$PROJECT_DIR$">
@@ -58,16 +62,13 @@
     <configuration name="stringSearching.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/stringSearching.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="toUpperCase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/toUpperCase.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.arrays.js" />
+        <item itemvalue="Node.js.regExp.js" />
         <item itemvalue="Node.js.stringMethods.js" />
         <item itemvalue="Node.js.stringSearching.js" />
-        <item itemvalue="Node.js.toUpperCase.js" />
-        <item itemvalue="Node.js.map.js" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +89,10 @@
       <workItem from="1620472219949" duration="16348000" />
       <workItem from="1649836805349" duration="49000" />
       <workItem from="1649856738927" duration="581000" />
-      <workItem from="1649911601598" duration="4149000" />
+      <workItem from="1649911601598" duration="5391000" />
+      <workItem from="1649999188944" duration="4236000" />
+      <workItem from="1650086810615" duration="1587000" />
+      <workItem from="1650169857268" duration="6002000" />
     </task>
     <servers />
   </component>
