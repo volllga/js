@@ -1,21 +1,17 @@
 
 
-let z = [4, 1, 3, , 13, 4, 0 ];
-
-function doubleA(arr) {
-    let newArr = [];
-    arr.forEach(function (item) {
-        newArr.push(item * 2);
-    })
-    return newArr;
+let array = [1, 2, 3, 44, 5];
+let array2 = [ '1', '2', '3', '44', '5' ]
+function multiplyThem(numbers) {
+    console.log(numbers.map((element) => {
+        return element * element;
+    }));
 }
 
-console.log(doubleA(z));
+multiplyThem(array);
 
-for (let i = 0; i < z.length; i++) {
-    console.log(z[i]);
+function convertToNumber(arrayOfString) {
+    return arrayOfString.map(e => e * 1);
 }
 
-for (let i in z) {
-    console.log(z[i]);
-}
+console.log(convertToNumber(array2), array.map(Math.floor), array.toString());
