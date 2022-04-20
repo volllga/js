@@ -1,17 +1,13 @@
 
+let x = {"even":[2,4,6,8,10],"odd":[1,3,5,7,9]}
 
-let array = [1, 2, 3, 44, 5];
-let array2 = [ '1', '2', '3', '44', '5' ]
-function multiplyThem(numbers) {
-    console.log(numbers.map((element) => {
-        return element * element;
-    }));
+function sumTheArrays(naturalNumbers) {
+    let arr = [];
+    for(let i = 0; i < naturalNumbers.even.length; i++) {
+        arr.push(naturalNumbers.even[i] + naturalNumbers.odd[i]);
+        console.log(naturalNumbers.even[i] + naturalNumbers.odd[i], arr);
+    }
+    return arr;
 }
 
-multiplyThem(array);
-
-function convertToNumber(arrayOfString) {
-    return arrayOfString.map(e => e * 1);
-}
-
-console.log(convertToNumber(array2), array.map(Math.floor), array.toString());
+console.log(sumTheArrays(x));
