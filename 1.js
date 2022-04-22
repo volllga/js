@@ -1,13 +1,41 @@
+let isSuccess = true;
 
-let x = {"even":[2,4,6,8,10],"odd":[1,3,5,7,9]}
-
-function sumTheArrays(naturalNumbers) {
-    let arr = [];
-    for(let i = 0; i < naturalNumbers.even.length; i++) {
-        arr.push(naturalNumbers.even[i] + naturalNumbers.odd[i]);
-        console.log(naturalNumbers.even[i] + naturalNumbers.odd[i], arr);
-    }
-    return arr;
+function loadNumber() {
+    return new Promise( function(resolve, reject) {
+        if (isSuccess) {
+            resolve(1);
+        } else {
+            reject(2);
+        }
+    });
 }
 
-console.log(sumTheArrays(x));
+
+loadNumber()
+    .then( function number1(value) {
+        console.log(value);
+        return loadNumber();
+    })
+    .then( function number2(value) {
+        console.log(value);
+        return loadNumber();
+    })
+    .then( function number3(value) {
+        console.log(value);
+        return loadNumber();
+    })
+    .then( function number4(value) {
+        isSuccess = false;
+        console.log(value);
+        return loadNumber();
+    })
+    .then( function number5(value) {
+        console.log(value);
+        return loadNumber();
+    })
+    .catch( function(error) {
+        console.log(error)
+    })
+    .finally( function() {
+        console.log(3)
+    });

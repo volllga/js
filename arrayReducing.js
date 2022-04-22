@@ -1,0 +1,1 @@
+let example = array.reduce(callback, initialValue);
