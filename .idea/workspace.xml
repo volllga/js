@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrayReducing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arraySlicing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
     </list>
@@ -53,10 +52,10 @@
     <configuration name="arraySearching.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arraySearching.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="arrayTransforming.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrayTransforming.js" working-dir="$PROJECT_DIR$">
+    <configuration name="arraySlicing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arraySlicing.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays.js" working-dir="$PROJECT_DIR$">
+    <configuration name="arrayTransforming.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrayTransforming.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objects.js" working-dir="$PROJECT_DIR$">
@@ -65,10 +64,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.arraySlicing.js" />
         <item itemvalue="Node.js.objects.js" />
         <item itemvalue="Node.js.arrayTransforming.js" />
         <item itemvalue="Node.js.arraySearching.js" />
-        <item itemvalue="Node.js.arrays.js" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +95,9 @@
       <workItem from="1650258478040" duration="2413000" />
       <workItem from="1650343516951" duration="2971000" />
       <workItem from="1650430897785" duration="7052000" />
-      <workItem from="1650602868560" duration="8035000" />
+      <workItem from="1650602868560" duration="8372000" />
+      <workItem from="1650638392071" duration="636000" />
+      <workItem from="1650778513206" duration="5251000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650346486934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added promises.js">
+      <created>1650618494722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650618494722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added arrayTransforming.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added arrayTransforming.js" />
+    <MESSAGE value="Added promises.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added promises.js" />
   </component>
 </project>
