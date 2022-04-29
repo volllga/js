@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arraySlicing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -97,7 +95,8 @@
       <workItem from="1650430897785" duration="7052000" />
       <workItem from="1650602868560" duration="8372000" />
       <workItem from="1650638392071" duration="636000" />
-      <workItem from="1650778513206" duration="5251000" />
+      <workItem from="1650778513206" duration="6157000" />
+      <workItem from="1651209256398" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
