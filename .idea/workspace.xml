@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/constructor-phone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/constructor-student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/function-constructor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/primrNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/Function/prim-number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/summOfDigits.js" beforeDir="false" afterPath="$PROJECT_DIR$/Function/summ-of-digits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterative process.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Loop/loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.js" beforeDir="false" afterPath="$PROJECT_DIR$/Loop/loops.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/Function/map.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,29 +53,38 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.this.js">
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Function" />
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Loop" />
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Simple" />
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Array" />
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\String" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.constructor-phone.js">
+    <configuration name="constructor-phone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-phone.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
-    <configuration name="arraySlicing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arraySlicing.js" working-dir="$PROJECT_DIR$">
+    <configuration name="constructor-student.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-student.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="arrayTransforming.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrayTransforming.js" working-dir="$PROJECT_DIR$">
+    <configuration name="date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/date.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objects.js" working-dir="$PROJECT_DIR$">
+    <configuration name="function-constructor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/function-constructor.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
-    <configuration name="this.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/this.js" working-dir="$PROJECT_DIR$">
+    <configuration name="map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/map.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.this.js" />
-        <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Node.js.arraySlicing.js" />
-        <item itemvalue="Node.js.objects.js" />
-        <item itemvalue="Node.js.arrayTransforming.js" />
+        <item itemvalue="Node.js.constructor-phone.js" />
+        <item itemvalue="Node.js.constructor-student.js" />
+        <item itemvalue="Node.js.function-constructor.js" />
+        <item itemvalue="Node.js.date.js" />
+        <item itemvalue="Node.js.map.js" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +119,7 @@
       <workItem from="1651215151949" duration="754000" />
       <workItem from="1651242627587" duration="886000" />
       <workItem from="1651296499389" duration="2460000" />
+      <workItem from="1651380792807" duration="4502000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
