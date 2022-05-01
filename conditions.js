@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const finalGrade = (exam, projects) => {
     if (exam > 90 || projects > 10) {
         return 100;
@@ -13,7 +13,7 @@ const finalGrade = (exam, projects) => {
         return 0;
     }
 }
-=======
+
 let capacity = 14;
 if(capacity === 15) {
     console.log("We have a full capacity");
@@ -22,4 +22,5 @@ if(capacity === 15) {
 } else {
     console.log("We are over capacity");
 }
->>>>>>> 8bbf3c97379addf98058bc3ff1abd581ef8ce037
+
+console.log(finalGrade(74, 2));

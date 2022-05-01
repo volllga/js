@@ -1,5 +1,5 @@
 import assert from 'assert';
-import factorial from './factorial.mjs';
+import factorial from './Function/factorial.mjs';
 
 // Example
 //assert.equal(factorial(3), 2);
