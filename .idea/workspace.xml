@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Object/objectWindow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/triangleArea.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +53,11 @@
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.modules.mjs">
+  <component name="RunManager" selected="Node.js.triangleArea.mjs">
     <configuration name="constructor-phone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-phone.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
     <configuration name="constructor-student.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-student.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="function-constructor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/function-constructor.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
     <configuration name="modules.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modules.mjs" working-dir="$PROJECT_DIR$">
@@ -70,13 +66,16 @@
     <configuration name="summOfDigits.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/summOfDigits.mjs" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
+    <configuration name="triangleArea.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/triangleArea.mjs" working-dir="$PROJECT_DIR$/Function">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.triangleArea.mjs" />
         <item itemvalue="Node.js.modules.mjs" />
         <item itemvalue="Node.js.summOfDigits.mjs" />
         <item itemvalue="Node.js.constructor-phone.js" />
         <item itemvalue="Node.js.constructor-student.js" />
-        <item itemvalue="Node.js.function-constructor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +111,8 @@
       <workItem from="1651242627587" duration="886000" />
       <workItem from="1651296499389" duration="2460000" />
       <workItem from="1651380792807" duration="4987000" />
-      <workItem from="1651467977402" duration="4368000" />
+      <workItem from="1651467977402" duration="4659000" />
+      <workItem from="1651492032382" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651471367850</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add objectWindow.js">
+      <created>1651473340911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651473340911</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +163,7 @@
     <MESSAGE value="Added arrayTransforming.js" />
     <MESSAGE value="Added promises.js" />
     <MESSAGE value="dir Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="dir Object" />
+    <MESSAGE value="add objectWindow.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add objectWindow.js" />
   </component>
 </project>
