@@ -1,4 +1,4 @@
-const summArray = (array) => {
+export function  sumOfArray (array) {
     let i = 0;
     let summ = 0;
     while (i < array.length){
@@ -6,21 +6,21 @@ const summArray = (array) => {
         i += 1;
     }
     return summ;
-};
+}
 
-const addDigits = (n) =>{
+export function addDigits(n) {
     while (n > 9){
         let str = String(n);
         let array = str.split('');
-        console.log('********', array, summArray(array));
-        n = summArray(array);
+        console.log('********', array, sumOfArray(array));
+        n = sumOfArray(array);
     }
     return n;
-};
+}
 
 
 const arr = ['1', '4', '6', '0', '5'];
-console.log(summArray(arr));
+console.log(sumOfArray(arr));
 console.log(addDigits(458));
 
 console.log('-----------------');
