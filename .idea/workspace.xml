@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/objectWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/summ-of-digits.js" beforeDir="false" afterPath="$PROJECT_DIR$/Function/summOfDigits.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Object/objects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Object" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Function" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Loop" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Simple" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Array" />
-      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\String" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.modules.mjs">
@@ -113,7 +112,7 @@
       <workItem from="1651242627587" duration="886000" />
       <workItem from="1651296499389" duration="2460000" />
       <workItem from="1651380792807" duration="4987000" />
-      <workItem from="1651467977402" duration="2865000" />
+      <workItem from="1651467977402" duration="4368000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
@@ -129,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650618494722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dir Object">
+      <created>1651471367850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651471367850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added arrayTransforming.js" />
     <MESSAGE value="Added promises.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added promises.js" />
+    <MESSAGE value="dir Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="dir Object" />
   </component>
 </project>

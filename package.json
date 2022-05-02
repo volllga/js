@@ -1,0 +1,19 @@
+{
+  "name": "introductiontojavascript",
+  "version": "1.0.0",
+  "description": "JavaScript for me.\r It is the line to check GraphQL",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volllga/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volllga/js/issues"
+  },
+  "homepage": "https://github.com/volllga/js#readme"
+}
