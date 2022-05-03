@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Function/triangleArea.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/alert_prompt_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boolean.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/triangleArea.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/Function/triangleArea.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/modules.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -53,11 +59,11 @@
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.triangleArea.mjs">
-    <configuration name="constructor-phone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-phone.js" working-dir="$PROJECT_DIR$/Function">
+  <component name="RunManager" selected="JavaScript Debug.alert_prompt_confirm.html">
+    <configuration name="alert_prompt_confirm.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/introductionToJavaScript/Function/alert_prompt_confirm.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="constructor-student.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-student.js" working-dir="$PROJECT_DIR$">
+    <configuration name="constructor-phone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/constructor-phone.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
     <configuration name="modules.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modules.mjs" working-dir="$PROJECT_DIR$">
@@ -71,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.triangleArea.mjs" />
+        <item itemvalue="JavaScript Debug.alert_prompt_confirm.html" />
         <item itemvalue="Node.js.modules.mjs" />
+        <item itemvalue="Node.js.triangleArea.mjs" />
         <item itemvalue="Node.js.summOfDigits.mjs" />
         <item itemvalue="Node.js.constructor-phone.js" />
-        <item itemvalue="Node.js.constructor-student.js" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +118,8 @@
       <workItem from="1651296499389" duration="2460000" />
       <workItem from="1651380792807" duration="4987000" />
       <workItem from="1651467977402" duration="4659000" />
-      <workItem from="1651492032382" duration="2567000" />
+      <workItem from="1651492032382" duration="5560000" />
+      <workItem from="1651598874932" duration="2070000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>

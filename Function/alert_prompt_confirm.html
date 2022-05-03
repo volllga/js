@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form>
+        <input type="button" value="Show Alert" onclick="myAlert()" />
+    </form>
+    <form>
+        <input type="button" value="Show Prompt " onclick="myPrompt()" />
+    </form>
+    <script>
+        function myAlert() {
+            alert('Hello, everyone!');
+        }
+        function myPrompt(){
+            const name = prompt("Enter your name!", 'your name');
+            if(name === null || name === ''){
+                confirm("Press yes to confirm");
+                alert('Hello, everyone!');
+            } else {
+                alert('Hello, '+ name);
+            }
+        }
+    </script>
+
+</body>
+</html>
