@@ -1,7 +1,8 @@
-var myDate = new Date();
-console.log(myDate);
+let myDate = new Date();
 
-var myFullYear = new Date();
+console.log(myDate.getDate(), myDate.getMonth() + 1, myDate.getFullYear());
+
+let myFullYear = new Date();
 
 console.log(myFullYear.getFullYear());
 console.log(myFullYear.getYear());
@@ -24,3 +25,10 @@ function testDateTime(a, b) {
 // yes, chenges where saved
 // and what now?
 // Resolving a merge conflict
+
+// request a weekday along with a long date
+
+const options = { day: '2-digit', month: 'long', year: 'numeric' };
+const today = new Intl.DateTimeFormat('en-AU', options).format(myDate);
+console.log(today);
+//
