@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Loop/for.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop/while.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions/calendarOfworkdays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions/swith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scopeOfvariables.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions/conditions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -50,24 +52,24 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Conditions" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Object" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Function" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Loop" />
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Simple" />
-      <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.for.js">
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.calendarOfworkdays.js">
+    <configuration name="calendarOfworkdays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Conditions/calendarOfworkdays.js" working-dir="$PROJECT_DIR$/Conditions">
       <method v="2" />
     </configuration>
-    <configuration name="date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/date.js" working-dir="$PROJECT_DIR$/Function">
+    <configuration name="car.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Object/car.js" working-dir="$PROJECT_DIR$/Object">
       <method v="2" />
     </configuration>
     <configuration name="for.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loop/for.js" working-dir="$PROJECT_DIR$/Loop">
       <method v="2" />
     </configuration>
-    <configuration name="random.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/random.js" working-dir="$PROJECT_DIR$/Function">
+    <configuration name="scopeOfvariables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scopeOfvariables.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="while.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loop/while.js" working-dir="$PROJECT_DIR$/Loop">
@@ -75,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.calendarOfworkdays.js" />
+        <item itemvalue="Node.js.car.js" />
+        <item itemvalue="Node.js.scopeOfvariables.js" />
         <item itemvalue="Node.js.for.js" />
         <item itemvalue="Node.js.while.js" />
-        <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Node.js.random.js" />
-        <item itemvalue="Node.js.date.js" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +123,9 @@
       <workItem from="1651639629946" duration="586000" />
       <workItem from="1651653416102" duration="2279000" />
       <workItem from="1651816891480" duration="6467000" />
-      <workItem from="1651918564493" duration="2194000" />
+      <workItem from="1651918564493" duration="4081000" />
+      <workItem from="1651992084383" duration="2407000" />
+      <workItem from="1652116690526" duration="1476000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
@@ -165,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651662808106</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add for and while loops">
+      <created>1651921291101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651921291101</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,7 @@
     <MESSAGE value="add objectWindow.js" />
     <MESSAGE value="add alert_prompt_confirm.html" />
     <MESSAGE value="change date.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="change date.js" />
+    <MESSAGE value="add for and while loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="add for and while loops" />
   </component>
 </project>
