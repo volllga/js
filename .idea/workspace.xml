@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Conditions/calendarOfworkdays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions/swith.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scopeOfvariables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/breakContinue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions/conditions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -59,7 +55,10 @@
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Simple" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.calendarOfworkdays.js">
+  <component name="RunManager" selected="Node.js.breakContinue.js">
+    <configuration name="breakContinue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loop/breakContinue.js" working-dir="$PROJECT_DIR$/Loop">
+      <method v="2" />
+    </configuration>
     <configuration name="calendarOfworkdays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Conditions/calendarOfworkdays.js" working-dir="$PROJECT_DIR$/Conditions">
       <method v="2" />
     </configuration>
@@ -72,16 +71,13 @@
     <configuration name="scopeOfvariables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scopeOfvariables.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="while.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loop/while.js" working-dir="$PROJECT_DIR$/Loop">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.breakContinue.js" />
         <item itemvalue="Node.js.calendarOfworkdays.js" />
         <item itemvalue="Node.js.car.js" />
         <item itemvalue="Node.js.scopeOfvariables.js" />
         <item itemvalue="Node.js.for.js" />
-        <item itemvalue="Node.js.while.js" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +121,8 @@
       <workItem from="1651816891480" duration="6467000" />
       <workItem from="1651918564493" duration="4081000" />
       <workItem from="1651992084383" duration="2407000" />
-      <workItem from="1652116690526" duration="1476000" />
+      <workItem from="1652116690526" duration="1834000" />
+      <workItem from="1652246495293" duration="2554000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
