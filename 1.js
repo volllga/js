@@ -39,3 +39,26 @@
 
 //___________________________________________________________
 
+// const salary = 25000;
+// const expenses =[4000, 1000, 5000]
+//
+// function getSalary(expenses) {
+//     let remainingSalary = expenses
+//             .reduce(function subtraction(difference, subtrahend) {
+//         return difference -= subtrahend;
+//     }, salary);
+//     return console.log(remainingSalary);
+// }
+//
+// getSalary(expenses)
+
+//___________________________________________________________
+
+// const numbers = [2, 1, 2];
+// function calculateExp(numbers){
+//     let result = numbers.reduce((acc, num) => {
+//         return acc ** num;
+//     })
+//     console.log(result);
+// }
+// calculateExp(numbers);
