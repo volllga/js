@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/arraySorting.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/arrayReducing.js" beforeDir="false" afterPath="$PROJECT_DIR$/Array/arrayReducing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,8 @@
       <workItem from="1652257831691" duration="2996000" />
       <workItem from="1652331384974" duration="4723000" />
       <workItem from="1652416252920" duration="1635000" />
-      <workItem from="1652459120889" duration="3377000" />
+      <workItem from="1652459120889" duration="3421000" />
+      <workItem from="1652504722668" duration="2965000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652339078551</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add arrayReducing.js">
+      <created>1652462658834</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652462658834</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +235,7 @@
     <MESSAGE value="add breakContinue.js" />
     <MESSAGE value="add smallestDivisor.js" />
     <MESSAGE value="add async" />
-    <option name="LAST_COMMIT_MESSAGE" value="add async" />
+    <MESSAGE value="add arrayReducing.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add arrayReducing.js" />
   </component>
 </project>
