@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d1eb-c176-49b1-9b48-780913dc0876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/arraySorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/forEach.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/nod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateLiterals.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/prim-number.js" beforeDir="false" afterPath="$PROJECT_DIR$/Function/prim-number.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../epam_testing_js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -56,29 +58,29 @@
       <recent name="C:\Users\tomahawk\WebstormProjects\introductionToJavaScript\Simple" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.1.js">
+  <component name="RunManager" selected="Node.js.forEach.js">
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="arrayReducing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/arrayReducing.js" working-dir="$PROJECT_DIR$/Array">
+    <configuration name="forEach.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/forEach.js" working-dir="$PROJECT_DIR$/Array">
       <method v="2" />
     </configuration>
-    <configuration name="asyncRockBand.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/asyncRockBand.js" working-dir="$PROJECT_DIR$/Function">
+    <configuration name="nod.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/nod.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
-    <configuration name="asyncUserID.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/asyncUserID.js" working-dir="$PROJECT_DIR$/Function">
+    <configuration name="prim-number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/prim-number.js" working-dir="$PROJECT_DIR$/Function">
       <method v="2" />
     </configuration>
-    <configuration name="smallestDivisor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function/smallestDivisor.js" working-dir="$PROJECT_DIR$/Function">
+    <configuration name="templateLiterals.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/templateLiterals.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.forEach.js" />
+        <item itemvalue="Node.js.templateLiterals.js" />
+        <item itemvalue="Node.js.prim-number.js" />
+        <item itemvalue="Node.js.nod.js" />
         <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Node.js.arrayReducing.js" />
-        <item itemvalue="Node.js.asyncRockBand.js" />
-        <item itemvalue="Node.js.asyncUserID.js" />
-        <item itemvalue="Node.js.smallestDivisor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +130,9 @@
       <workItem from="1652331384974" duration="4723000" />
       <workItem from="1652416252920" duration="1635000" />
       <workItem from="1652459120889" duration="3421000" />
-      <workItem from="1652504722668" duration="2965000" />
+      <workItem from="1652504722668" duration="3197000" />
+      <workItem from="1652547315097" duration="2548000" />
+      <workItem from="1652587963079" duration="3272000" />
     </task>
     <task id="LOCAL-00001" summary="Added arrayTransforming.js">
       <created>1650346486934</created>
@@ -207,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652462658834</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add arraySorting.js">
+      <created>1652509731304</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652509731304</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +247,7 @@
     <MESSAGE value="add smallestDivisor.js" />
     <MESSAGE value="add async" />
     <MESSAGE value="add arrayReducing.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add arrayReducing.js" />
+    <MESSAGE value="add arraySorting.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add arraySorting.js" />
   </component>
 </project>
